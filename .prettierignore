@@ -1,0 +1,10 @@
+.serverless/
+.vscode/
+node_modules*/
+
+/coverage*/
+/dist*/
+/lib*/
+/tmp*/
+
+package-lock.json

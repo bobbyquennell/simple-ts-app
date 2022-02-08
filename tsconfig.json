@@ -1,0 +1,9 @@
+{
+  "extends": "./tsconfig.build.json",
+  "compilerOptions": {
+    "composite": false,
+    "rootDir": "."
+  },
+  "include": ["src", "tests", "tools"],
+  "exclude": ["node_modules", "dist", "tests/fixtures"]
+}
