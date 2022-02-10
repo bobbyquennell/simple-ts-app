@@ -48,4 +48,3 @@ npm run start-dev
 - Prettier with auto formatting on save
 - Husky + lint-Staged
 - testing with `Jest` and enforce testing styles with `eslint-plugin-jest`
-- Functional Programming with Closure, Higher-Order Function(HOF), Currying and Memoization
