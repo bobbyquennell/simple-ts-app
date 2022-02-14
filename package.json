@@ -10,7 +10,7 @@
     "compile": "tsc -b tsconfig.build.json",
     "pre-commit": "lint-staged",
     "lint": "eslint . --ext .js,.ts --ignore-path='.eslintignore'",
-    "lint:fix": "eslint . --ext .js,.ts --fix --ignore-path='.eslintignore",
+    "lint:fix": "eslint . --ext .js,.ts --fix --ignore-path='.eslintignore'",
     "ts-check": "tsc -p tsconfig.json --noEmit",
     "prepare": "husky install",
     "build": "npm run clean && npm run compile",
