@@ -4,7 +4,7 @@ a simple app to kickstart your ts project (backend)
 
 ## Prerequisites
 
-- [TypeScript](https://www.typescriptlang.org/download) 5.1.6+
+- [TypeScript](https://www.typescriptlang.org/download) 5.4.5+
 - [Node.js](https://nodejs.org/en/) LTS version (or later)
   
 ## How to Run
