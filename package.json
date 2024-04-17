@@ -12,7 +12,7 @@
     "lint": "eslint . --ext .js,.ts --ignore-path='.eslintignore'",
     "lint:fix": "eslint . --ext .js,.ts --fix --ignore-path='.eslintignore'",
     "ts-check": "tsc -p tsconfig.json --noEmit",
-    "prepare": "husky install",
+    "prepare": "husky",
     "build": "npm run clean && npm run compile",
     "test": "jest --verbose",
     "test:watch": "jest --watchAll --coverage=false --verbose",
